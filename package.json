@@ -1,0 +1,11 @@
+{
+  "name": "CSS-Framework",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/martinwillnorman/CSS-Framework.git",
+  "author": "William Martin",
+  "license": "MIT",
+  "devDependencies": {
+    "normalize-scss": "^7.0.1"
+  }
+}
